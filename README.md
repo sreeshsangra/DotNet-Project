@@ -1,2 +1,2 @@
-# OCI-Codes
-OCI services and Devops codes
+# DotNet-Project
+Modules to upload the Objects via .Net Framework
