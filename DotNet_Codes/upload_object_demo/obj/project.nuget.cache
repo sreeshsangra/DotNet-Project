@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIWVxvqyUz1zD+QdoP2a2nobe6KhAZbEiE3n4Qdxq3kAHCZ96nB67bxrkE5rMG0KuwQiQFeH9lr8MeXdLIGDtw==",
+  "success": true,
+  "projectFilePath": "/home/opc/Desktop/Dotnet_Scripts/project1/upload_object_demo/upload_object_demo.csproj",
+  "expectedPackageFiles": [
+    "/home/opc/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.35.0/microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.identitymodel.logging/6.35.0/microsoft.identitymodel.logging.6.35.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.identitymodel.tokens/6.35.0/microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/opc/.nuget/packages/nlog/4.7.2/nlog.4.7.2.nupkg.sha512",
+    "/home/opc/.nuget/packages/oci.dotnetsdk.common/121.0.0/oci.dotnetsdk.common.121.0.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/oci.dotnetsdk.objectstorage/121.0.0/oci.dotnetsdk.objectstorage.121.0.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/polly/7.2.0/polly.7.2.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.identitymodel.tokens.jwt/6.35.0/system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/opc/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
